@@ -31,5 +31,5 @@ Frienzyy is a full-stack social networking application I developed to bring real
 
  🔗 Live Demo
 
- [https://frienzyy.vercel.app](https://frienzyy-app.onrender.com)  
+ [https://frienzyy-app.onrender.com](https://frienzyy-app.onrender.com)  
 
